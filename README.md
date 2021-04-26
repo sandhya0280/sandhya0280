@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <mailto:nvsandhya18@gmail.com>
+- 📫 How to reach me nvsandhya18@gmail.com
 
 <!---
 sandhya0280/sandhya0280 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
